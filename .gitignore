@@ -1,0 +1,6 @@
+node_modules
+logs
+.env.dev
+.env.local
+.env.prod
+public
